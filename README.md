@@ -12,3 +12,5 @@ I am making a Blinky board for forge hack club
 <img width="1440" height="900" alt="Screenshot 2026-05-17 at 14 18 39" src="https://github.com/user-attachments/assets/a5dfe745-d246-41c1-8d98-daee895863fb" /><img width="1440" height="900" alt="Screenshot 2026-05-17 at 19 43 28" src="https://github.com/user-attachments/assets/0fe1966c-ea54-4571-9fbd-bf17ae5f3b2e" />
 <img width="1440" height="900" alt="Screenshot 2026-05-17 at 19 43 45" src="https://github.com/user-attachments/assets/dae5694e-82dc-4b53-89e0-dfa8b1b3e08e" />
 <img width="1440" height="900" alt="Screenshot 2026-05-19 at 21 58 15" src="https://github.com/user-attachments/assets/d8cfe06e-1d71-4f49-8989-7b12a8dc6b02" />
+<img width="1440" height="900" alt="Screenshot 2026-05-25 at 21 43 28" src="https://github.com/user-attachments/assets/8049317a-e3b1-4a72-be6e-9b394aef0590" />
+<img width="1440" height="900" alt="Screenshot 2026-05-25 at 21 43 44" src="https://github.com/user-attachments/assets/cba48d05-b0aa-4b6c-a19d-1e8d521fc591" />
